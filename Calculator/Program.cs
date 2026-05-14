@@ -21,7 +21,7 @@ public class Calculator
             {
                 Console.WriteLine("Please enter a valid integer:");
             }
-                Console.WriteLine("You have entered first number: " + b);
+                Console.WriteLine("You have entered second number: " + b);
 
             Console.WriteLine("Enter one of the following operations (+,-,*,/)");
             char op = Convert.ToChar(Console.ReadLine());
