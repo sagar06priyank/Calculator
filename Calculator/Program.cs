@@ -13,7 +13,7 @@ public class Calculator
             {
                 Console.WriteLine("Please enter a valid integer:");
             }
-                Console.WriteLine("You have entered first number: " + a);
+                Console.WriteLine("You have entered first numberrrrrr: " + a);
 
             Console.WriteLine("Enter the second number");
             
